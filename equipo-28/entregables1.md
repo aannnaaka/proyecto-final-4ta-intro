@@ -1,7 +1,7 @@
 ## Etapa 1 del proyecto final
 
-- Número del equipo: 
-- Nombre del equipo: 
+- Número del equipo: 28
+- Nombre del equipo: AMAZONAS WEB
 - Nombre de todos miembros en su equipo:
 - ¿Qué problema global eligieron ustedes?
 - ¿Porque eligieron ese problema?
